@@ -3,7 +3,11 @@ This is the first website that i have created using html and css. I have also ho
 
 Screenshots of the website:-
 
+Desktop view:-
+
 ![alt text](https://github.com/Bandhan-singh-katoch/profile-page-website/blob/0134c3c54fbf9e2b7ff2cfe5063803709d1db31f/screenshot/Screenshot%20(6).png)
 
 
-![alt text](https://github.com/Bandhan-singh-katoch/profile-page-website/blob/main/screenshot/Screenshot%20(8).png)
+Mobile view:-
+
+![alt text](https://github.com/Bandhan-singh-katoch/profile-page-website/blob/main/screenshot/mobile-view.jpeg)
