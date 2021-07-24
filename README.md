@@ -5,7 +5,7 @@ Screenshots of the website:-
 
 Desktop view:-
 
-![alt text](https://github.com/Bandhan-singh-katoch/profile-page-website/blob/0134c3c54fbf9e2b7ff2cfe5063803709d1db31f/screenshot/Screenshot%20(6).png)
+![alt text](screenshots/desktop-view.png)
 
 
 Mobile view:-
