@@ -1,5 +1,8 @@
 # profile-page-website
-This is the first website that i have created using html and css. I have also hosted it on 000webhostapp.com that gives 7 days to host for free.
+This is the profile page that i have created using html and css.
+And this is the first website that i have created and hosted.
+I have hosted it on https://in.000webhost.com/ that gives some days to host our wesite  for free.
+Website link:- https://bandhan-singh.000webhostapp.com/ May be this website will not work after some days due to the expiration of the service..
 
 Screenshots of the website:-
 
@@ -10,4 +13,4 @@ Desktop view:-
 
 Mobile view:-
 
-![alt text](https://github.com/Bandhan-singh-katoch/profile-page-website/blob/main/screenshot/mobile-view.jpeg)
+![alt text](screenshots/mobile-view.jpg)
