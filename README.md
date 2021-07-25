@@ -13,7 +13,7 @@ Screenshots of the website:-
 
 # Mobile view:-
 
-![alt text](screenshots/mobile-view.jpg)
+![alt text](screenshots/mobile-view.jpeg)
 
 # Testing report
 ![alt text](https://github.com/Bandhan-singh-katoch/profile-page-website.github.io/blob/main/screenshots/testing%20screenshot.png)
