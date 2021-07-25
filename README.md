@@ -6,11 +6,11 @@ Website link:- https://bandhan-singh.000webhostapp.com/ May be this website will
 
 Screenshots of the website:-
 
-Desktop view:-
+# Desktop view:-
 
 ![alt text](screenshots/desktop-view.png)
 
 
-Mobile view:-
+# Mobile view:-
 
 ![alt text](screenshots/mobile-view.jpg)
