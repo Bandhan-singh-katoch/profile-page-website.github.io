@@ -1,0 +1,26 @@
+
+.div-data {
+	     background: white;
+	     height: 600px;
+	     border-radius:30px;
+	     margin-top: 55px;
+	     box-shadow:20px 20px 15px 0px gray;
+        }
+
+.data{
+	width:100%;
+	padding:10px
+}    
+
+.input-data{
+	width:100%;
+	border-radius: 10px;
+	background:lightgrey;
+}    
+
+.img{
+	height:20%;
+	width:20%;
+	border-radius:50%;
+	padding:8px
+}
