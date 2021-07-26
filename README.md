@@ -1,8 +1,11 @@
-# profile-page-website
+# Profile-page-website
 This is the profile page that i have created using html and css.
 And this is the first website that i have created and hosted.
-I have hosted it on github pages.
-Website link:- https://bandhan-singh-katoch.github.io/profile-page-website.github.io/
+I have hosted it on github pages and 000webhostapp.com.. 
+
+Website link on github page:- https://bandhan-singh-katoch.github.io/profile-page-website.github.io/
+
+Website link on 000webhostapp.com:- https://bandhan-singh.000webhostapp.com/
 
 Screenshots of the website:-
 
